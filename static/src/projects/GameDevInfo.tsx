@@ -26,7 +26,7 @@ function InteractiveWebsite() {
       tags={[Tags.Godot, Tags.GDScript]}
       desc="The interactive portion of this website is built with Godot Engine. It is designed to be an entertaining way to learn about my work and my passions."
       buttons={[
-        { text: "Try it!", url: "https://harperkim.ca/interactive" },
+        { text: "Try it!", url: "/interactive/" },
         { text: "GitHub", url: "https://github.com/imkimdol/website-source" }
       ]}
     />

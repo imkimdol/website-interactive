@@ -32,7 +32,7 @@ export default function Splash() {
         </div>
         <div className="tryHoverDet">
           <div className="tryOuter">
-            <a className="tryInner" href="https://harperkim.ca/interactive"><p>Try my interactive website!</p></a>
+            <a className="tryInner" href="/interactive/"><p>Try my interactive website!</p></a>
           </div>
         </div>
       </div>
